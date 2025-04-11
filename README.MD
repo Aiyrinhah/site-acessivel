@@ -1,14 +1,1 @@
-# Site acessível sobre Tropicália
-# Sobre
-Refatoração de um site implementando recursos de acessibilidade no html, css e JS.
-## Recursos de acessibilidade
-- Atributos aria
-- alt
-- tab-index
-- menu de acessibilidade
-## Tecnologias utilizadas
-- Bootstrap
-- ScrollRevealjs
-- HTML
-- CSS
-- JS
+https://private-user-images.githubusercontent.com/78444171/258898300-079f241f-8121-477e-b64c-a5251c2e306d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDQzOTI5NTQsIm5iZiI6MTc0NDM5MjY1NCwicGF0aCI6Ii83ODQ0NDE3MS8yNTg4OTgzMDAtMDc5ZjI0MWYtODEyMS00NzdlLWI2NGMtYTUyNTFjMmUzMDZkLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDExVDE3MzA1NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTc4ZGQ2YWViMjJkYzYxNWIyMzQ0NDI5Yzg4MjdiOWMwMDc2YjNhNWU1YTE5YzI1ZGYxOThiNjgxMTFjNzdkNmQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.BSGaoYA0ZRrTyUf6L6MPpvA3DbS3SyTwhsPtBaZLzGo
